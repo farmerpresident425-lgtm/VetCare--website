@@ -1,0 +1,1 @@
+<?php include('../includes/auth.php'); echo 'List of Resources'; ?>
